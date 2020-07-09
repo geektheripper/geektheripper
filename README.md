@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://flint.geektr.co/geektr/avatar-rotate.svg" alt="logo" width="100" height="100" align="left" />
 
-<!--
-**geektheripper/geektheripper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>GeekTR</h1>
 
-Here are some ideas to get you started:
+>// 志在互联网，所好者繁，染拖延之疾，久治未愈，有乔翁之心，奈何命定庸人。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a target="_blank" href="https://github.com/geektheripper" ><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@geektheripper-2a88f6?style=flat-square&amp;logo=github"/></a>
+<a target="_blank" href="https://git.geektr.co/geektr" ><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@geektr-fc6d26?style=flat-square&amp;logo=gitlab"/></a>
+<a target="_blank" href="https://twitter.com/geektheripper" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@geektheripper-1da1f2?style=flat-square&amp;logo=twitter"/></a>
+<a target="_blank" href="https://space.bilibili.com/3162440/dynamic" ><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-@GeekTR-f45a8d?style=flat-square&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB3aWR0aD0iMzIiIGhlaWdodD0iMzQiPgogICAgPHBhdGggZmlsbD0iI2Y0NWE4ZCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMzAuODI4IDMwLjQyMmMtLjI2NC4wMDEtLjUzMS4wMjQtLjc5Mi0uMDA0LS45NTgtLjEwNC0xLjY1Ni45ODQtMS45ODggMi4xMzEtLjI5OSAxLjAzMy0xLjQzNCAxLjU2MS0yLjQ1NiAxLjQ1NS0xLjE4LS4xMjEtMS45NjEtLjc5Ni0yLjI2Mi0xLjg2My0uMTgxLS42NDUtLjcyOC0xLjE0NS0xLjMzLTEuMTQxLTQuMTUzLjAyNC03Ljg0Ny4wMTItMTIgMC0uNDc4LS4wMDEtLjk4OC40NTctMS4xMjggMS4wMi0uMjk5IDEuMjA4LTEuMzI2IDEuOTc1LTIuNDYzIDEuOTk0LTEuMTc3LjAyLTIuMi0uNzI3LTIuNTQzLTEuOTgxLS4xNDQtLjUyNS0uMzg3LTEuNjQ4LS44ODktMS42Mi0uNjQ2LjAzNi0xLjI5Ni4wMTgtMS45NDQuMDA3LS43MDgtLjAxMy0xLjAyMS0uMjk3LTEuMDIxLS45NjkuMDA1LTYuODMzLjAxNS0xMy42NjUuMDMzLTIwLjQ5OC4wMDItLjcwNi4yOTUtLjk0NCAxLjEwOS0uOTQ1IDMuMzM3LS4wMDQgNi42NzQtLjAwMiAxMC4wMTEtLjAwMmguNjk4bC4wNjQtLjE3My0yLjMyNC0xLjIyMmMtMS4yODUtLjY3OC0yLjU3Mi0xLjM1NC0zLjg1NS0yLjAzNS0uNTItLjI3Ni0uNzM2LS42OTctLjQ0Mi0xLjIxOS4yOTctLjUyOC43ODgtLjU2IDEuMzAxLS4yOSAzLjAxMyAxLjU4OSA2LjAyNyAzLjE3NiA5LjAyOSA0Ljc4Mi43NjkuNDEyIDIuMTUzLjE2NSAyLjY0OC0uNTMxTDIyLjg4OC44MjVjLjA1NC0uMDc2LjEwNi0uMTU1LjE2Mi0uMjMuNDM4LS41ODguOTM1LS43NDcgMS4zODctLjQuNTIzLjQwMS40MzMuODc3LjA5NyAxLjM1NGwtMS44NjggMi42NDgtMi42OCAzLjgwOWguODk0YzMuMzE0IDAgNi42MjctLjAwMSA5Ljk0LjAwMSAxLjAxMi4wMDEgMS4xNjguMTU0IDEuMTY5IDEuMTM4LjAxIDYuNzE2LjAxOSAxMy40MzIuMDI1IDIwLjE0OC4wMDEuOTYtLjE3NiAxLjEyMy0xLjE4NiAxLjEyOXptLTQuOTggMi4wMDljLjUzLS4wMzUuNzgyLTEuNDM5Ljk0My0xLjk3aC0yLjAwNGMuMTk3LjU4NC40NyAyLjAxIDEuMDYxIDEuOTd6bS0xOS41My4wMDFjLjU4Ny4wMzYuODY0LTEuMzgzIDEuMDM5LTEuOTY2SDUuMzgzYy4xMzQuNTQ5LjQxIDEuOTM0LjkzNSAxLjk2NnpNMzAgMTBIMnYxOWgyOFYxMHpNNCAxMy44ODJjLjAwMi0uOTI2LjQ0OS0xLjgzMSAxLjM4MS0xLjgzMiA3LjExMy0uMDAxIDEzLjY2LS4wNTIgMjAuNzczLS4wNS45NDYgMCAxLjg0My45NjYgMS44NDYgMS44ODIuMDEyIDQuNDE4LS4wMDcgNy44MTggMCAxMi4yMzYuMDAyLjk0NC0uODU0IDEuODgxLTEuODQ2IDEuODgyLTMuNTQ2LjAwMi02LjYwOSAwLTEwLjE1NCAwcy02LjYwOC4wMDItMTAuMTU0IDBjLTEuMDMyLS4wMDEtMS44NDctLjg2NS0xLjg0Ni0xLjg4Mi4wMDUtNC4zOTYtLjAwOC03Ljg0IDAtMTIuMjM2em0yMi4yOTcgMTIuMDk5YzAtNC4xNzctLjE0My04LjAxLS4xNDMtMTIuMDk5SDUuODQ2YzAgNC4xNTMtLjAyNCA3Ljk4NC0uMDI0IDEyLjA5OWgyMC40NzV6bS0xNC42ODktOS42NjNjLjA1OC0uMDI2LjEzLS4wMjEuMzcyLS4wNTYuMTQxLjEzOC40OTcuMzI4LjUzNS41NjYuMDQzLjI3OC0uMTA2Ljc2My0uMzIxLjg3Mi0xLjMxNC42NjctMi42NjQgMS4yNjgtNC4wMTcgMS44NTctLjQxMi4xNzktLjg2NS4wNDQtLjk3LS4zOTYtLjA2OS0uMjg4LjA1NS0uODM1LjI2Mi0uOTM5IDEuMzU0LS42ODUgMi43NTMtMS4yODIgNC4xMzktMS45MDR6bS40MTMgNC40NThjLjI1Ni0uMDA5LjU4Ny4zNDUuNzcyLjYxNS4xNDguMjE1LjA4Ni41NTkuMTkuODE5LjE5Ny40OTUuNTY4Ljk2NiAxLjExNi44NS40MDUtLjA4NS43NzUtLjQ5IDEuMDc5LS44MjYuMTUtLjE2Ni4xMjUtLjQ5NC4xNjEtLjc1MS4wNjgtLjQ4NC4zNTQtLjc4Mi44MzItLjc3LjQzNy4wMTEuNzIxLjI3NS43NzcuNzQ4LjAzNi4yOTkuMDQ0LjY3LjIyMy44NjkuMjg2LjMxOC42OTguNzAyIDEuMDY3LjcxNC4zMzQuMDExLjc0LS4zOTMgMS4wMDMtLjcwNS4xNzUtLjIwNy4xNjUtLjU3My4yMi0uODcyLjA4OS0uNDc3LjM2NS0uNzY3Ljg1OS0uNzI5LjQ5MS4wMzguNzQ5LjM1NC43My44NDctLjA0NyAxLjI1MS0uNTQ0IDIuMjY4LTEuNzE2IDIuODI2LTEuMDkyLjUyMS0yLjExMi4yOTctMy4wMDYtLjUwNC0uMDQ4LS4wNDMtLjEwNi0uMDc0LS4xNjYtLjExNS0uMjcyLjE4OS0uNTI0LjQwOC0uODEzLjU1OS0uOTQ1LjQ5My0xLjg5MS40NTItMi43NjMtLjE1NC0uOTYyLS42Ny0xLjM5MS0xLjY0Ni0xLjMwNS0yLjc4MS4wMTgtLjI0Ni40NzQtLjYzMS43NC0uNjR6bTYuOTc2LTQuNTE2Yy4yMzItLjQwNi42NDQtLjUxNyAxLjAyOS0uMjk4IDEuNTI5Ljg3MSAzLjA0MSAxLjc3MiA0LjU0MyAyLjY4Ni4xOC4xMDkuMjY0LjM3MS4zMjcuNDY1LjAxNy43NDMtLjU5OCAxLjE0Ny0xLjE2NC44MjhhMTY0LjQ3NSAxNjQuNDc1IDAgMDEtNC40ODctMi42NTJjLS4zOTItLjIzOC0uNDc1LS42MzMtLjI0OC0xLjAyOXoiLz4KPC9zdmc+"/></a>
+<a target="_blank" href="tencent://message/?uin=598957591" ><img alt="QQ" src="https://img.shields.io/badge/QQ-@598957591-1da1f2?style=flat-square&amp;logo=tencent-qq"/></a>
+<a target="_blank" href="mailto:geektr@ch-postal.com?subject=%5BFrom%20Github%5D%20Your%20Subject" ><img alt="Mail" src="https://img.shields.io/badge/CH%20Mail-geektr@ch--postal.com-violet?style=flat-square&amp"/></a>
+
+
