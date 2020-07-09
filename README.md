@@ -1,4 +1,4 @@
-<img src="https://flint.geektr.co/geektr/avatar-rotate.svg" alt="logo" width="100" height="100" align="left" />
+<img src="https://flint.geektr.co/geektr/avatar-rotate.svg" alt="logo" width="110" height="110" align="left" />
 
 # GeekTR
 
